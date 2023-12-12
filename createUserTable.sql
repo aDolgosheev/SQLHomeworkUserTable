@@ -1,6 +1,6 @@
 create schema dolgosheev;
 
-create table persons --dolgosheev.persons
+create table dolgosheev.persons
 (
     name           varchar(255),
     surname        varchar(255),
